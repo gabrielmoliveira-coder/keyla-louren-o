@@ -1,0 +1,6 @@
+{
+  "name": "Keyla Lourenço Saúde & Estética",
+  "description": "Site institucional e agendamento para a clínica Keyla Lourenço Saúde & Estética em Itabira/MG. Harmonização facial, Botox e cuidados personalizados com resultado natural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
